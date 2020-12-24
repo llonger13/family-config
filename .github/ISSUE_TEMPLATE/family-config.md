@@ -1,9 +1,8 @@
-
 ```yaml
 name: Albiceleste
 key: Albiceleste
 color:blue
-emblem: 
+emblem: Star_Shine_02
 info:
   logo: family-config/IMG-20201123-WA0028__1_-removebg-preview.png
   description: > 
